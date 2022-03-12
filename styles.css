@@ -10,13 +10,6 @@ h1,h2,h3,h4,h5,h6{
 
 }
 
-.item img:hover{
-    transform: scale(1.05);
-    transition: all ease ;
-    border-radius: 15px;
-    box-shadow: 0 0 5px rgb(136, 219, 140);
-}
-
 .intro {
 	text-align:  center;
 }
@@ -39,3 +32,9 @@ h1,h2,h3,h4,h5,h6{
     border-radius: 15px;
     box-shadow: 0 0 5px rgb(136, 219, 140);
 }
+
+.photo-shadow{
+        box-shadow: 0 15px 15px 0 rgb(59, 61, 61);
+        border-radius: 2%;
+}
+
